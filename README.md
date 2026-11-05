@@ -17,4 +17,4 @@
 
 ## 実行環境
 * OS: Windows / Linux
-* コンパイラ: GCC
+* コンパイラ: GCC　自動pushのテスト
